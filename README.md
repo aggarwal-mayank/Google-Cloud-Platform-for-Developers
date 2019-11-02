@@ -1,4 +1,4 @@
-# Google Cloud Platform for Developers
+# Google Cloud Platform for Developer
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/google-cloud-platform-developers?utm_source=github&utm_medium=repository&utm_campaign=9781788837675"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09886_cover.png" alt="Google Cloud Platform for Developers" height="256px" align="right"></a>
 
